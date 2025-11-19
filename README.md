@@ -1,4 +1,4 @@
-#📘 README.md
+# 📘 README.md
 
 ## 🛒 Product Category Classifier
 
@@ -49,14 +49,14 @@ product-category-classifier/
 
 # 🚀 Installation & Setup
 
-###1️⃣ Clone the repository
+### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/product-category-classifier.git
+git clone https://github.com/lav162329/product-category-classifier.git
 cd product-category-classifier
 ```
 
-###2️⃣ Install required dependencies
+### 2️⃣ Install required dependencies
 
 Use your environment or preferred dependency manager (pip, conda, poetry).
 Example:
@@ -94,6 +94,7 @@ data/products.csv
 --- 
 
 # 🧪 Jupyter Notebooks
+
 ### 📘 01_data_exploration.ipynb
 
 Covers:
@@ -148,7 +149,8 @@ These components allow fully reproducible predictions.
 
 ---
 # 🏗 Production Scripts
-###🧠 Train the model
+
+### 🧠 Train the model
 
 ```bash
 python src/train_model.py
